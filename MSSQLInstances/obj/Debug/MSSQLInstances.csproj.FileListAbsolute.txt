@@ -1,0 +1,5 @@
+C:\Code\personal\MSSQLInstances\MSSQLInstances\obj\Debug\MSSQLInstances.csprojAssemblyReference.cache
+C:\Code\personal\MSSQLInstances\MSSQLInstances\bin\Debug\MSSQLInstances.exe
+C:\Code\personal\MSSQLInstances\MSSQLInstances\bin\Debug\MSSQLInstances.pdb
+C:\Code\personal\MSSQLInstances\MSSQLInstances\obj\Debug\MSSQLInstances.exe
+C:\Code\personal\MSSQLInstances\MSSQLInstances\obj\Debug\MSSQLInstances.pdb
